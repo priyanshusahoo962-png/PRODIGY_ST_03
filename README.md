@@ -2,7 +2,7 @@
 
 Automated login test suite for Sauce Demo, Prodigy InfoTech Software Testing Internship
 
-**Tester:** Priyanshu Sahoo
+**Tester:** Priyanshu Priyadarshi Sahoo
 
 ## Objective
 Write an automated test suite that tests the login functionality of a web application, covering positive cases (valid credentials) and negative cases (invalid credentials, empty fields).
